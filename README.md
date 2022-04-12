@@ -1,2 +1,2 @@
 # ColorRemover
-Removing a specific from the image using openCV
+Removing a specific color from the image using openCV
